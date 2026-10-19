@@ -1,0 +1,3 @@
+"""
+PredictAI – tests package.
+"""

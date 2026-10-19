@@ -1,0 +1,10 @@
+Scenario Type,Method,MAE,WAPE (%),Acc@15%
+demand_surge,B1: ARIMA + Literal Multiplier,2.62,35.02,100.0%
+demand_surge,B3: XGBoost (Lag/Cal/Scen),2.64,35.33,43.3%
+demand_surge,PredictAI (Full Pipeline),2.6,34.8,100.0%
+price_up,B1: ARIMA + Literal Multiplier,2.29,34.9,83.3%
+price_up,B3: XGBoost (Lag/Cal/Scen),2.36,35.58,80.0%
+price_up,PredictAI (Full Pipeline),2.34,35.44,56.7%
+supply_delay,B1: ARIMA + Literal Multiplier,1.09,55.52,60.0%
+supply_delay,B3: XGBoost (Lag/Cal/Scen),1.15,59.17,53.3%
+supply_delay,PredictAI (Full Pipeline),1.09,55.47,56.7%
