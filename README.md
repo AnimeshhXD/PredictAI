@@ -269,21 +269,6 @@ Data leakage is a known vulnerability in retail forecasting with retrieval. Pred
 
 ---
 
-## 📜 Citation
-
-If you use PredictAI in your research or application, please cite:
-
-```bibtex
-@article{predictai2026,
-  title   = {PredictAI: A Guardrailed, Episode-Retrieval Augmented LLM Architecture for Exogenous What-If Retail Demand Forecasting Under Shocks},
-  author  = {PredictAI Research Team},
-  journal = {arXiv preprint},
-  year    = {2026},
-  url     = {https://github.com/AnimeshhXD/PredictAI}
-}
-```
-
----
 
 ## 📄 License
 
